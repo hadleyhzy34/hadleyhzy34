@@ -1,7 +1,8 @@
 - 👋 Hi,Servus, Boujour, Hola, I’m Ziyue Hou, you can call me Hadley.
-  * AI & Robotics Engineer at Fudan University
+  * Currently AI & Robotics Engineer at Fudan University
   * ECE Msc degree at Northeastern University
-- 👀 I’m interested in machine/deep/reinforment learning, computer vision, robotics.
+  * ECE BSc Degree at Tianjin University
+- 👀 I’m interested in Reinforcement Learning, Deep Learning Framework, Distributed Deep Learning, Point Cloud, Robotics
 - 🌱 I’m currently learning GPU programming with CUDA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
